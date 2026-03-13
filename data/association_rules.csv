@@ -1,0 +1,103 @@
+Antecedent,Consequent,Support,Confidence,Lift,Antecedent_Support,Count
+High_Stress & Female,Sleep_Apnea,0.1178,0.9459,3.6019,0.1246,35
+High_Stress & BMI_Overweight & Female,Sleep_Apnea,0.1111,0.9429,3.5901,0.1178,33
+Sleep_Short & High_Stress & Female,Sleep_Apnea,0.1077,0.9412,3.5837,0.1145,32
+Sleep_Short & High_Stress & High_BP,Sleep_Apnea,0.1044,0.9394,3.5769,0.1111,31
+High_Stress & High_BP,Sleep_Apnea,0.1044,0.9394,3.5769,0.1111,31
+Sleep_Short & High_BP,Sleep_Apnea,0.1044,0.9394,3.5769,0.1111,31
+Sleep_Short & High_BP & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & High_BP & Female,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & High_BP & BMI_Overweight,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_BP & Female,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_BP & BMI_Overweight,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Stress & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity & High_Stress,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity & High_BP,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity & BMI_Overweight,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & BMI_Overweight & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity & Female,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & Female & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_Stress & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_Stress & High_BP,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_Stress & BMI_Overweight,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & High_Activity,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_Stress & Female,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+Sleep_Short & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & Female & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & BMI_Overweight & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_Stress,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Stress & High_BP & Age_Senior,Sleep_Apnea,0.0976,0.9355,3.562,0.1044,29
+High_Activity & High_BP,Sleep_Apnea,0.2054,0.9242,3.5192,0.2222,61
+High_BP & Age_Senior,Sleep_Apnea,0.2054,0.9242,3.5192,0.2222,61
+High_Activity & High_BP & Age_Senior,Sleep_Apnea,0.2054,0.9242,3.5192,0.2222,61
+High_Activity & High_BP & Female,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+High_Activity & High_BP & BMI_Overweight,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+High_Activity & BMI_Overweight & Female,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+BMI_Overweight & Female & Age_Senior,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+High_Activity & BMI_Overweight & Age_Senior,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+BMI_Overweight & Age_Senior,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+High_BP & Female & Age_Senior,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+High_BP & BMI_Overweight & Age_Senior,Sleep_Apnea,0.1987,0.9219,3.5102,0.2155,59
+Sleep_Long & Low_Stress & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Sleep_Long & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+High_Quality & Low_Stress & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+High_Quality & High_Activity & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Sleep_Long & High_BP & Age_Senior,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+High_Activity & Low_Stress & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Low_Stress & High_BP & Age_Senior,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Sleep_Long & High_Activity & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+High_Quality & High_BP & Age_Senior,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+High_Quality & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Sleep_Long & High_Quality & High_BP,Sleep_Apnea,0.1077,0.9143,3.4813,0.1178,32
+Sleep_Short & High_Stress & BMI_Overweight,Sleep_Apnea,0.1044,0.9118,3.4717,0.1145,31
+Sleep_Long & BMI_Overweight & Female,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+High_Quality & High_BP & Female,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+High_Quality & High_BP & BMI_Overweight,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+High_Quality & BMI_Overweight & Age_Senior,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+Low_Stress & BMI_Overweight & Age_Senior,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+Sleep_Long & BMI_Overweight & Age_Senior,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+Sleep_Long & High_BP & Female,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+Sleep_Long & High_BP & BMI_Overweight,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+High_Quality & BMI_Overweight & Female,Sleep_Apnea,0.101,0.9091,3.4615,0.1111,30
+High_Activity & BMI_Overweight,Sleep_Apnea,0.1987,0.9077,3.4562,0.2189,59
+High_BP,Sleep_Apnea,0.2189,0.9028,3.4375,0.2424,65
+High_Stress & BMI_Overweight,Sleep_Apnea,0.1178,0.8974,3.4172,0.1313,35
+High_Activity & Age_Senior,Sleep_Apnea,0.2054,0.8971,3.4157,0.229,61
+High_BP & Female,Sleep_Apnea,0.202,0.8955,3.4099,0.2256,60
+High_BP & BMI_Overweight & Female,Sleep_Apnea,0.1987,0.8939,3.4038,0.2222,59
+High_BP & BMI_Overweight,Sleep_Apnea,0.1987,0.8939,3.4038,0.2222,59
+High_Activity & Female & Age_Senior,Sleep_Apnea,0.1987,0.8939,3.4038,0.2222,59
+High_Activity & Low_Stress & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+Sleep_Long & High_Activity & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+High_Quality & Low_Stress & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+Sleep_Long & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+High_Quality & High_Activity & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+High_Quality & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+Sleep_Long & Low_Stress & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+Sleep_Long & High_Quality & BMI_Overweight,Sleep_Apnea,0.101,0.8824,3.3597,0.1145,30
+High_Quality & High_Activity & Age_Senior,Sleep_Apnea,0.1077,0.8649,3.2931,0.1246,32
+High_Activity & Low_Stress & Age_Senior,Sleep_Apnea,0.1077,0.8649,3.2931,0.1246,32
+Sleep_Long & High_Activity & Age_Senior,Sleep_Apnea,0.1077,0.8649,3.2931,0.1246,32
+Sleep_Short & Female,Sleep_Apnea,0.1077,0.8649,3.2931,0.1246,32
+Low_Stress & High_BP,Sleep_Apnea,0.1077,0.8649,3.2931,0.1246,32
+Sleep_Short & BMI_Overweight & Female,Sleep_Apnea,0.1044,0.8611,3.2788,0.1212,31
+Low_Stress & High_BP & BMI_Overweight,Sleep_Apnea,0.101,0.8571,3.2637,0.1178,30
+Low_Stress & High_BP & Female,Sleep_Apnea,0.101,0.8571,3.2637,0.1178,30
+Low_Stress & BMI_Overweight & Female,Sleep_Apnea,0.101,0.8571,3.2637,0.1178,30
+High_Activity & Female,Sleep_Apnea,0.1987,0.8551,3.2559,0.2323,59
+BMI_Overweight & Female,Sleep_Apnea,0.2121,0.8514,3.2417,0.2492,63
+Low_Stress & BMI_Overweight,Sleep_Apnea,0.101,0.8333,3.1731,0.1212,30
+Sleep_Short & BMI_Overweight,Sleep_Apnea,0.1044,0.8158,3.1063,0.1279,31
+Sleep_Long & High_Activity & Female,Sleep_Apnea,0.101,0.7895,3.0061,0.1279,30
+High_Activity & Low_Stress & Female,Sleep_Apnea,0.101,0.7895,3.0061,0.1279,30
+High_Quality & High_Activity & Female,Sleep_Apnea,0.101,0.7895,3.0061,0.1279,30
+BMI_Overweight,Sleep_Apnea,0.2189,0.7738,2.9464,0.2828,65
+High_Activity & Low_Stress,Sleep_Apnea,0.1077,0.7442,2.8336,0.1448,32
+Sleep_Long & High_Activity & Low_Stress,Sleep_Apnea,0.1077,0.7442,2.8336,0.1448,32
+High_Quality & High_Activity & Low_Stress,Sleep_Apnea,0.1077,0.7442,2.8336,0.1448,32
+Age_Senior,Sleep_Apnea,0.2054,0.61,2.3227,0.3367,61
+Female & Age_Senior,Sleep_Apnea,0.1987,0.602,2.2924,0.33,59
+High_Stress,Sleep_Apnea,0.1347,0.5263,2.004,0.2559,40
+Sleep_Short & High_Stress,Sleep_Apnea,0.1178,0.5072,1.9314,0.2323,35
